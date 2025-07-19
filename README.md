@@ -58,6 +58,7 @@ You can find these links also inside the `/Videos/` folder.
 ## 📷 Code Screenshots
 
 <img width="1816" height="819" alt="Image" src="https://github.com/user-attachments/assets/e8981d6d-cd03-447d-9049-596d537f86b8" />
+<img width="1854" height="746" alt="Image" src="https://github.com/user-attachments/assets/5cee51a6-406a-405f-bf7b-7461daec95b4" />
 
 
 ---
