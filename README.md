@@ -48,7 +48,7 @@ The system detects the height of boxes using proximity sensors, classifies them 
 
 > Videos are hosted externally due to GitHub file size limits.
 
-📦 [Sorting System Simulation – Factory I/O / PLC Logic Overview – TIA Portal](https://github.com/user-attachments/assets/a74b9501-1033-4381-903b-3bd02556e61f)
+(https://github.com/user-attachments/assets/a74b9501-1033-4381-903b-3bd02556e61f)
 
 
 You can find these links also inside the `/Videos/` folder.
