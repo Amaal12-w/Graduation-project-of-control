@@ -62,6 +62,7 @@ You can find these links also inside the `/Videos/` folder.
 <img width="1877" height="785" alt="Image" src="https://github.com/user-attachments/assets/3ca40d9a-ad4f-499c-951d-e6cc0060e384" />
 <img width="1920" height="806" alt="Image" src="https://github.com/user-attachments/assets/3739ef2b-fb79-4a25-8542-05937c0317da" />
 <img width="1920" height="806" alt="Image" src="https://github.com/user-attachments/assets/3739ef2b-fb79-4a25-8542-05937c0317da" />
+<img width="1920" height="258" alt="Image" src="https://github.com/user-attachments/assets/48bfa231-df78-41a5-9a6a-a4ba9c0c0670" />
 
 
 
