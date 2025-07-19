@@ -22,6 +22,7 @@ The system detects the height of boxes using proximity sensors, classifies them 
 └── README.md
 
 
+
 ---
 
 ## 🔧 Features
@@ -41,9 +42,25 @@ The system detects the height of boxes using proximity sensors, classifies them 
 - Factory I/O Simulation  
 - Digital Sensors & Actuators (simulated)  
 - Signal-based control logic
+  
 
 ---
+## 🔧 Requirements & Setup
 
+To run this simulation correctly, make sure you have the following software installed:
+
+- **TIA Portal** (v15.1 or later)  
+- **Factory I/O**  
+- **TIA PLC SIM or PLCSIM Advanced**
+
+### ▶️ How to Run:
+1. Open the TIA project from `/TIA_Project`.
+2. Start **PLCSIM** to simulate the S7-1200 PLC.
+3. Open the scene in Factory I/O from `/FactoryIO_Simulation`.
+4. In Factory I/O, set the driver to **Siemens S7-PLCSIM**.
+5. Run both programs — the sorting logic will be fully simulated.
+
+> ⚠️ Make sure TIA and Factory I/O are properly connected to simulate the factory environment.
 ## 🎥 Demo Videos
 
 > Videos are hosted externally due to GitHub file size limits.
