@@ -57,7 +57,8 @@ You can find these links also inside the `/Videos/` folder.
 
 ## 📷 Code Screenshots
 
-You can find screenshots of the PLC ladder logic and configuration settings in the [`Code_Screenshots`](./Code_Screenshots) folder for quick reference.
+You can find screenshots of the PLC ladder logic and configuration settings in the [`Code_Screenshots`](<img width="1816" height="819" alt="Image" src="https://github.com/user-attachments/assets/e8981d6d-cd03-447d-9049-596d537f86b8" />
+) folder for quick reference.
 
 ---
 
